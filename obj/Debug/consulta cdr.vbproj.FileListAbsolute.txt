@@ -1,0 +1,12 @@
+D:\Repositorios\consulta cdr\bin\Debug\consulta cdr.exe.config
+D:\Repositorios\consulta cdr\bin\Debug\consulta cdr.exe
+D:\Repositorios\consulta cdr\bin\Debug\consulta cdr.pdb
+D:\Repositorios\consulta cdr\bin\Debug\consulta cdr.xml
+D:\Repositorios\consulta cdr\obj\Debug\consulta cdr.vbprojAssemblyReference.cache
+D:\Repositorios\consulta cdr\obj\Debug\consulta_cdr.Form1.resources
+D:\Repositorios\consulta cdr\obj\Debug\consulta_cdr.Resources.resources
+D:\Repositorios\consulta cdr\obj\Debug\consulta cdr.vbproj.GenerateResource.cache
+D:\Repositorios\consulta cdr\obj\Debug\consulta cdr.vbproj.CoreCompileInputs.cache
+D:\Repositorios\consulta cdr\obj\Debug\consulta cdr.exe
+D:\Repositorios\consulta cdr\obj\Debug\consulta cdr.xml
+D:\Repositorios\consulta cdr\obj\Debug\consulta cdr.pdb

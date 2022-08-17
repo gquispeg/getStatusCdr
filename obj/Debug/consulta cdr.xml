@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+consulta cdr
+</name>
+</assembly>
+<members>
+<member name="T:consulta_cdr.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:consulta_cdr.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:consulta_cdr.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:consulta_cdr.consultaSunat.statusResponse">
+<remarks/>
+</member>
+<member name="P:consulta_cdr.consultaSunat.statusResponse.content">
+<remarks/>
+</member>
+<member name="P:consulta_cdr.consultaSunat.statusResponse.statusCode">
+<remarks/>
+</member>
+<member name="P:consulta_cdr.consultaSunat.statusResponse.statusMessage">
+<remarks/>
+</member>
+</members>
+</doc>
